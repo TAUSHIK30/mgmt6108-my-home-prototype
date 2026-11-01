@@ -1,5 +1,13 @@
 # My Home basic prototype
 
+## Live links
+
+- Proposed version B: https://mgmt6108-my-home-prototype.vercel.app/?v=B
+- Current-layout reconstruction A: https://mgmt6108-my-home-prototype.vercel.app/?v=A
+- GitHub: https://github.com/TAUSHIK30/mgmt6108-my-home-prototype
+
+Vercel production deployment verified Ready on 1 November 2026. Both live variants and activity details were checked without browser JavaScript errors.
+
 MGMT6108 individual My Home contribution: a simplified current-layout reconstruction (A) and proposed redesign (B). This repository contains the runnable app plus AUDIT.md, PROMPTS.md and REFLECTION.md at its root.
 
 Open dist/index.html in a browser. No build or installation needed. A/B variants are accessible with ?v=A and ?v=B. Fictional scenario date: 31 October 2026, Singapore time.
